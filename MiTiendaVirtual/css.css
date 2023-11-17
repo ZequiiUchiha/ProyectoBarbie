@@ -1,0 +1,16 @@
+/* estilos.css */
+
+.titulo {
+    color: blue;
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+.parrafo {
+    color: green;
+    font-size: 16px;
+}
+
+.cambiar-color {
+    color: red; /* Puedes cambiar "red" por cualquier otro color válido, como "blue", "green", "#FFA500" (código hexadecimal), etc. */
+}
